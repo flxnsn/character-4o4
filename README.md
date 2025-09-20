@@ -6,4 +6,4 @@ As required per task, this readme will now feature a short introduction to said 
 
 4o4
 
-This concludes this short but still comprehesive first impression, and this readme.
+This concludes this short but still comprehensive first impression, and this readme.
