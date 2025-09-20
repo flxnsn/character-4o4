@@ -6,7 +6,7 @@ Personality:
 
 Strengths:
 
-- Untangiable
+- Intangiable
 - Illusive
 - Unrestrained by corporal forces
 
@@ -15,4 +15,4 @@ Weaknesses:
 - Unproven
 - Unreliable Records
 - Might be afraid of observation
-- Lacking determination, or definition
+- Lacking determination or definition
