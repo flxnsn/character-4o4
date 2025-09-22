@@ -7,3 +7,5 @@ As required per task, this readme will now feature a short introduction to said 
 4o4
 
 This concludes this short but still comprehensive first impression, and this readme.
+
+More information can also be found under [this] (https://www.google.com/search/4o4) google search.
